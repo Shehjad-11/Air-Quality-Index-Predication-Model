@@ -1,5 +1,23 @@
 # 🌍 AQI Prediction Model – Air Quality Monitoring using Machine Learning
 
+## 📸 Webpage Screenshots  
+
+Here are the screenshots of our AQI Prediction Web App:  
+
+### 🏠 Home Page  
+![Home Page](https://github.com/Shehjad-11/Air-Quality-Index-Predication-Model/blob/main/image/1.png)  
+
+### 📊 AQI Prediction Page  
+![Prediction Page](https://github.com/Shehjad-11/Air-Quality-Index-Predication-Model/blob/main/image/2.png)  
+
+### 📈 Data Visualization Page  
+![Data Visualization](https://github.com/Shehjad-11/Air-Quality-Index-Predication-Model/blob/main/image/3.png)  
+
+### 🔍 Model Insights Page  
+![Model Insights](https://github.com/Shehjad-11/Air-Quality-Index-Predication-Model/blob/main/image/4.png)  
+
+---
+
 ![AQI Infographic](https://static.vecteezy.com/system/resources/previews/029/899/623/original/infographic-with-air-quality-index-on-dust-background-for-medical-design-air-quality-index-great-design-for-any-purposes-illustration-vector.jpg)  
 
 ## 📌 Introduction
