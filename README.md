@@ -103,7 +103,7 @@ This project leverages **Machine Learning** to predict AQI based on pollutant le
 
 ## 👨‍💻 Contributors  
 - **Shehjad Sayyad** ([GitHub](https://github.com/Shehjad-11))  
-- 📩 **Email:** shehjad.sayyad05@gmail.com  
+- 📩 **Email:** shehjad.sayyad01@gmail.com  
 
 ---
 
